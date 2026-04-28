@@ -1,0 +1,15 @@
+{
+  "name": "oshc-arms",
+  "version": "1.0.0",
+  "description": "Accreditation Reporting and Monitoring System (ARMS) Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'This is a static site. Open index.html in a browser.' && exit 0"
+  },
+  "author": "OSHC",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshc-devs/ARMS.git"
+  }
+}
